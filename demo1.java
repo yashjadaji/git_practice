@@ -3,5 +3,6 @@ class Main{
         System.out.println("world");
         System.out.println("niraj");
         System.out.println("world");
+        System.out.println("123456");
     }
 }
